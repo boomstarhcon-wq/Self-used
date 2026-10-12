@@ -1,10 +1,5 @@
-#!name = Spotify 日本分流
-#!desc = 将 Spotify 相关域名分流至指定的日本策略组
-#!author = ChatGPT
-
-[Rule]
-DOMAIN-SUFFIX,spotify.com,日本时延优选
-DOMAIN-SUFFIX,spotify.net,日本时延优选
-DOMAIN-SUFFIX,scdn.co,日本时延优选
-DOMAIN-SUFFIX,spotifycdn.com,日本时延优选
-DOMAIN-SUFFIX,pscdn.co,日本时延优选
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.net
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,pscdn.co
