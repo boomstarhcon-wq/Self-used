@@ -1,0 +1,10 @@
+#!name = Spotify 日本分流
+#!desc = 将 Spotify 相关域名分流至指定的日本策略组
+#!author = ChatGPT
+
+[Rule]
+DOMAIN-SUFFIX,spotify.com,PROXY
+DOMAIN-SUFFIX,spotify.net,PROXY
+DOMAIN-SUFFIX,scdn.co,PROXY
+DOMAIN-SUFFIX,spotifycdn.com,PROXY
+DOMAIN-SUFFIX,pscdn.co,PROXY
