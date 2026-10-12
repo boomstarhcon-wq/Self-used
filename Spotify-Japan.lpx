@@ -3,8 +3,8 @@
 #!author = ChatGPT
 
 [Rule]
-DOMAIN-SUFFIX,spotify.com,PROXY
-DOMAIN-SUFFIX,spotify.net,PROXY
-DOMAIN-SUFFIX,scdn.co,PROXY
-DOMAIN-SUFFIX,spotifycdn.com,PROXY
-DOMAIN-SUFFIX,pscdn.co,PROXY
+DOMAIN-SUFFIX,spotify.com,日本时延优选
+DOMAIN-SUFFIX,spotify.net,日本时延优选
+DOMAIN-SUFFIX,scdn.co,日本时延优选
+DOMAIN-SUFFIX,spotifycdn.com,日本时延优选
+DOMAIN-SUFFIX,pscdn.co,日本时延优选
